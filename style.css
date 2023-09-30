@@ -3,4 +3,5 @@ h1{
     text-align: center;
     font-size: calc(12px + 12vw);
     font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }

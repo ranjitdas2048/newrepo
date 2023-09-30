@@ -2,4 +2,5 @@ h1{
     color:red;
     text-align: center;
     font-size: calc(12px + 12vw);
+    font-weight: bold;
 }
